@@ -1,0 +1,1 @@
+# Bash files to automate the use of airmon-ng airodump-ng for wifi deauthentication
