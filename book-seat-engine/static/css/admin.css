@@ -1,0 +1,13 @@
+/* Set a background image by replacing the URL below */
+
+body {
+    background: url('https://images.pexels.com/photos/733168/pexels-photo-733168.jpeg?cs=srgb&dl=mountain-view-golden-hour-photography-733168.jpg&fm=jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.lead {
+    margin: 0;
+}
