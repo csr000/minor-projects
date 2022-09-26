@@ -1,0 +1,3 @@
+django ip
+========
+request.META.get('REMOTE_ADDR')
